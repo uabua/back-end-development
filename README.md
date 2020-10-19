@@ -12,4 +12,4 @@ I have no authority over the course itself and I do not guarantee that the mater
 
 ## License
 
-android-development is licensed under the MIT License ([LICENSE-MIT](https://github.com/uabua/back-end-development/blob/main/LICENSE "Copy of the MIT license"))
+This repository is licensed under the MIT License ([LICENSE-MIT](https://github.com/uabua/back-end-development/blob/main/LICENSE "Copy of the MIT license"))
